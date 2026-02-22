@@ -1,5 +1,7 @@
 # DigitalOcean API - Embedded Client Implementation
 
+Part of the [DigitalOcean Droplets](https://github.com/CodexCoder21Organization/ProjectDocumentation/blob/main/projects/DigitalOceanDroplets.md) project.
+
 Provides the `DigitalOceanClient` implementation that makes HTTP requests to the DigitalOcean REST API v2. This module depends on [digitalocean-api-jvm-api](https://github.com/CodexCoder21Organization/digitalocean-api-jvm-api) for all interfaces and data types.
 
 ## Maven Coordinates
